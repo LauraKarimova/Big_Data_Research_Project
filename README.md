@@ -11,3 +11,5 @@ Here's a demo of the best items stacking we've achieved so far:
 
 
 At the end of the file, the script throws an error, it is due to the fact that in this part of the code we run an endless loop in which items are added to the box. The error comes out because we end running.
+
+Link to google collab with code - https://colab.research.google.com/drive/1ZR1MEYWtvS8uq41CFHEVpkxaTHX0EYzr?usp=sharing.
