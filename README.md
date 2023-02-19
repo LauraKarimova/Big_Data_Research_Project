@@ -1,4 +1,4 @@
-##Big Data Research Project
+## Big Data Research Project
 
 The objective of this work is to develop an algorithm using model-free reinforcement learning, specifically Q-learning, to solve the 3D bin packing problem. The algorithm will be designed to maximize the volume utilization of the containers while taking into account constraints such as size limits, and handling irregularly shaped items and dynamic changes in the number of items and containers. The performance of the algorithm will be evaluated using different scenarios and compared with other existing approaches.
 
